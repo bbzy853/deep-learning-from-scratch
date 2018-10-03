@@ -1,0 +1,16 @@
+{
+    "python.venvPath": "/Users/POPS/.local/share/virtualenvs",
+    "python.pythonPath": "/Users/POPS/.local/share/virtualenvs/practise-0OwnC8Om/bin/python",
+    "editor.tokenColorCustomizations": {
+        "[Hackz]": {
+            "textMateRules": [
+                {
+                    "scope": "source.python",
+                    "settings": {
+                        "foreground": "#5eff00"
+                    }
+                }
+            ]
+        }
+    }
+}
